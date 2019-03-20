@@ -2,7 +2,7 @@
 
 Library for react. 📚
 
-> Build test not yet. But You can available as react boilerplate with parcel. 🚀
+> Build test not yet. But You can available as react boilerplate with parcel. 📦🚀
 
 ## Start
 
